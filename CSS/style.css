@@ -7,6 +7,8 @@ a {
     color: inherit;
 }
 
+/* NavBar */
+
 #navBar {
     margin-top: 40px;
 }
@@ -17,10 +19,36 @@ a {
     font-size: 25px;
 }
 
+/* Picture */
+
 .couplePic {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 98%;
-    opacity: 0.9;
+    width: 100%;
+}
+
+.imageContainer {
+    position: relative;
+}
+
+.text-block {
+  position: absolute;
+  top: 20px;
+  left: 34%;
+  color: white;
+}
+
+#names {
+    font-size: 75px;
+}
+
+#date {
+    text-align: center;
+}
+
+/* Our Story Text */
+
+.ourStoryText {
+    text-align: center;
 }
