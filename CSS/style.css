@@ -1,0 +1,26 @@
+body {
+    background-image: url('../IMG/bricks.jpeg');
+    
+}
+
+a {
+    color: inherit;
+}
+
+#navBar {
+    margin-top: 40px;
+}
+
+.navBtn {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+}
+
+.couplePic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+    opacity: 0.9;
+}
